@@ -1,8 +1,10 @@
-📊 Student Performance Comprehensive Analysis
+# 📊 Student Performance Comprehensive Analysis
 
-Data Analytics Portfolio Project
+### Data Analytics Portfolio Project
 
-📌 Project Objective
+---
+
+## 📌 Project Objective
 
 The objective of this analysis is to identify key demographic and academic factors influencing student performance and determine actionable strategies for improving overall academic outcomes.
 
@@ -13,23 +15,25 @@ This study evaluates:
 * Influence of socioeconomic indicators (lunch type)
 * Profiling characteristics of high-performing students
 
-📂 Dataset Overview
+---
 
-Dataset: `StudentsPerformance.csv`
-Total Students: 1000
-Subjects: Math, Reading, Writing
+## 📂 Dataset Overview
 
-Key Variables:
+**Dataset:** `StudentsPerformance.csv`
+**Total Students:** 1000
+**Subjects:** Math, Reading, Writing
+
+### Key Variables:
 
 * Gender
 * Test Preparation Course
 * Lunch Type (Socioeconomic Indicator)
 
+---
 
+## 📈 Overall Performance
 
-📈 Overall Performance
-
- Overall Average Scores
+### Overall Average Scores
 
 * **Math:** 65.93
 * **Reading:** 69.09
@@ -196,13 +200,3 @@ Improves averages but does not strongly define top performers.
 
 This analysis demonstrates how demographic, academic preparation, and socioeconomic factors interact to influence student performance. The findings highlight the importance of targeted academic intervention and broader institutional support to reduce performance disparities and improve overall outcomes.
 
----
-
-If you want, I can now:
-
-* Make it more GitHub-styled with badges
-* Make it shorter (recruiter-friendly)
-* Make it more technical
-* Add project folder structure section
-
-You’re building a strong portfolio now 👏💙
